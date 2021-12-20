@@ -1,4 +1,6 @@
-### Fifth year Computer Engineering student seeking a professional COOP or Internship. Passionate
+### Profile
+
+Fifth year Computer Engineering student seeking a professional COOP or Internship. Passionate
 about learning new technologies, software development and helping others with my knowledge of
 programming and computers. Primary areas of interest are robotics, automatization, AI, machine
 learning, renewable energy and solar systems.
