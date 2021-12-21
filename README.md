@@ -24,7 +24,7 @@ learning, renewable energy and solar systems.
 -  Python (Learning)
 ### Programs that I have used:
 -  IntelliJ, Eclipse, Visual Studio Code
--  Code Composer, OpenDSS, AutoCad
+-  Code Composer Studio, OpenDSS, AutoCad
 -  GitHub and GitLab
 -  Microsoft Applications (Proficient)
 
