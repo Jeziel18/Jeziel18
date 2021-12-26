@@ -8,10 +8,10 @@ learning, renewable energy and solar systems.
 ### Projects:
 |Name                                         |Language                 |Status                   |Repo                   |
 |---------------------------------------------|-------------------------|-------------------------|-----------------------|
-|RumBus                                       |TypeScript               |In Progress              |                       |
-|OS Laboratories                              |C                        |Completed                |                       |
-|Solar Distric Cup Research                   |                         |Completed                |                       |
-|Class Project - Circular Doubly Linked List  |Java                     |Completed                |                       |
+|RumBus                                       |TypeScript               |In Progress              |Coming Soon|
+|OS Laboratories                              |C                        |Completed                |Coming Soon|
+|Solar Distric Cup Research                   |                         |Completed                |Coming Soon|
+|Class Project - Circular Doubly Linked List  |Java                     |Completed                |[Here](https://github.com/Jeziel18/SortedList)|
 |Class Project - Polinomial Implenetation     |Java                     |Completed                |[Here](https://github.com/Jeziel18/Polinomial-Implenetation)|
 |Class Project - Zelda                        |Java                     |Completed                |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
 |Class Project - PacMan                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/PacMan-Proyect)|
