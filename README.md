@@ -8,12 +8,12 @@ learning, renewable energy and solar systems.
 ### Projects:
 |Name                                         |Language                 |Status                   |Repo                   |
 |---------------------------------------------|-------------------------|-------------------------|-----------------------|
-|RumBus                                       |TypeScript               |In Progress              | [Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
+|RumBus                                       |TypeScript               |In Progress              |                       |
 |OS Laboratories                              |C                        |Completed                |                       |
 |Solar Distric Cup Research                   |                         |Completed                |                       |
 |Class Project - Circular Doubly Linked List  |Java                     |Completed                |                       |
 |Class Project - Polinomial Implenetation     |Java                     |Completed                |                       |
-|Class Project - Zelda                        |Java                     |Completed                |                       |
+|Class Project - Zelda                        |Java                     |Completed                |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
 |Class Project - PacMan                       |Java                     |Completed                |                       |
 |Class Project - Galaga                       |Java                     |Completed                |                       |
 
