@@ -12,7 +12,7 @@ learning, renewable energy and solar systems.
 |OS Laboratories                              |C                        |Completed                |                       |
 |Solar Distric Cup Research                   |                         |Completed                |                       |
 |Class Project - Circular Doubly Linked List  |Java                     |Completed                |                       |
-|Class Project - Polinomial Implenetation     |Java                     |Completed                |                       |
+|Class Project - Polinomial Implenetation     |Java                     |Completed                |[Here](https://github.com/Jeziel18/Polinomial-Implenetation)|
 |Class Project - Zelda                        |Java                     |Completed                |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
 |Class Project - PacMan                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/PacMan-Proyect)|
 |Class Project - Galaga                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/Galaga-Proyect)|
