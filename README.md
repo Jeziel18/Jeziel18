@@ -22,7 +22,7 @@ learning, renewable energy and solar systems.
 -  C (Knowledgeable) 
 -  Typescript (Familiar)
 -  Python (Learning)
-### Programs that I have used:
+### Tools that I have used:
 -  IntelliJ, Eclipse, Visual Studio Code
 -  Code Composer Studio, OpenDSS, AutoCad
 -  GitHub and GitLab
