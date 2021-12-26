@@ -15,7 +15,7 @@ learning, renewable energy and solar systems.
 |Class Project - Polinomial Implenetation     |Java                     |Completed                |                       |
 |Class Project - Zelda                        |Java                     |Completed                |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
 |Class Project - PacMan                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/PacMan-Proyect)|
-|Class Project - Galaga                       |Java                     |Completed                |                       |
+|Class Project - Galaga                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/Galaga-Proyect)|
 
 ### Programming languages:
 -  Java (Proficient)
