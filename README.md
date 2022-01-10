@@ -6,17 +6,17 @@ programming and computers. Primary areas of interest are robotics, automatizatio
 learning, renewable energy and solar systems.
 
 ### Projects:
-|Name                                         |Language                 |Status                   |Repo                   |
-|---------------------------------------------|-------------------------|-------------------------|-----------------------|
-|Hydrus Control System Node                   |Python                   |In Progress              |[Here](https://github.com/Jeziel18/Hydrus-Control-System-Node-)|
-|RumBus                                       |TypeScript               |In Progress              |[Here](https://github.com/Jeziel18/rumbus_service_ts-staging)|
-|OS Laboratories                              |C                        |Completed                |Coming Soon|
-|Solar Distric Cup Research                   |                         |Completed                |[Here](https://github.com/Jeziel18/Solar-Distric-Cup)|
-|Class Project - Circular Doubly Linked List  |Java                     |Completed                |[Here](https://github.com/Jeziel18/SortedList)|
-|Class Project - Polinomial Implenetation     |Java                     |Completed                |[Here](https://github.com/Jeziel18/Polinomial-Implenetation)|
-|Class Project - Zelda                        |Java                     |Completed                |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
-|Class Project - PacMan                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/PacMan-Proyect)|
-|Class Project - Galaga                       |Java                     |Completed                |[Here](https://github.com/Jeziel18/Galaga-Proyect)|
+|Name                                         |Language                 |Status       |Repo                   |
+|---------------------------------------------|-------------------------|-------------|-----------------------|
+|Hydrus Control System Node                   |Python                   |In Progress  |[Here](https://github.com/Jeziel18/Hydrus-Control-System-Node-/tree/Documenting-PEP-8)|
+|RumBus                                       |TypeScript               |In Progress  |[Here](https://github.com/Jeziel18/rumbus_service_ts-staging)|
+|OS Laboratories                              |C                        |Completed    |Coming Soon|
+|Solar Distric Cup Research                   |                         |Completed    |[Here](https://github.com/Jeziel18/Solar-Distric-Cup)|
+|Class Project - Circular Doubly Linked List  |Java                     |Completed    |[Here](https://github.com/Jeziel18/SortedList)|
+|Class Project - Polinomial Implenetation     |Java                     |Completed    |[Here](https://github.com/Jeziel18/Polinomial-Implenetation)|
+|Class Project - Zelda                        |Java                     |Completed    |[Here](https://github.com/Jeziel18/Zelda-Proyect/tree/master)|
+|Class Project - PacMan                       |Java                     |Completed    |[Here](https://github.com/Jeziel18/PacMan-Proyect)|
+|Class Project - Galaga                       |Java                     |Completed    |[Here](https://github.com/Jeziel18/Galaga-Proyect)|
 
 ### Programming languages:
 -  Java (Proficient)
