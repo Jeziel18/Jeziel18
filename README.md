@@ -22,8 +22,9 @@ learning, renewable energy and solar systems.
 ### Programming languages:
 -  Java (Proficient)
 -  C (Knowledgeable) 
+-  Python (Knowledgeable)
 -  Typescript (Familiar)
--  Python (Learning)
+
 ### Tools that I have used:
 -  IntelliJ, Eclipse, Visual Studio Code
 -  Code Composer Studio, OpenDSS, AutoCad
