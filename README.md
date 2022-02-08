@@ -8,7 +8,7 @@ learning, renewable energy and solar systems.
 ### Projects:
 |Name                                         |Language                 |Status       |Repo                   |
 |---------------------------------------------|-------------------------|-------------|-----------------------|
-|OOP-Person-Task                              |Python                   |In Progress  |[Here](https://github.com/Jeziel18/OOP-Person-Task/tree/Creating-Persons)|
+|OOP-Person-Task                              |Python                   |In Progress  |[Here](https://github.com/Jeziel18/OOP-Person-Task/tree/main)|
 |Hydrus Control System Node                   |Python                   |Completed    |[Here](https://github.com/Jeziel18/Hydrus-Control-System-Node-/tree/Documenting-PEP-8)|
 |RumBus                                       |TypeScript               |In Progress  |[Here](https://github.com/Jeziel18/rumbus_service_ts-staging)|
 |OS Laboratories                              |C                        |Completed    |Coming Soon|
