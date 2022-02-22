@@ -8,10 +8,9 @@ learning, renewable energy and solar systems.
 ### Projects:
 |Name                                         |Language                 |Status       |Repo                   |
 |---------------------------------------------|-------------------------|-------------|-----------------------|
-|OOP-Person-Task                              |Python                   |In Progress  |[Here](https://github.com/Jeziel18/OOP-Person-Task/tree/main)|
+|OOP-Person-Task                              |Python                   |Completed    |[Here](https://github.com/Jeziel18/OOP-Person-Task/tree/main)|
 |Hydrus Control System Node                   |Python                   |Completed    |[Here](https://github.com/Jeziel18/Hydrus-Control-System-Node-/tree/Documenting-PEP-8)|
 |RumBus                                       |TypeScript               |In Progress  |[Here](https://github.com/Jeziel18/rumbus_service_ts-staging)|
-|OS Laboratories                              |C                        |Completed    |Coming Soon|
 |Solar Distric Cup Research                   |                         |Completed    |[Here](https://github.com/Jeziel18/Solar-Distric-Cup)|
 |Class Project - Circular Doubly Linked List  |Java                     |Completed    |[Here](https://github.com/Jeziel18/SortedList)|
 |Class Project - Polinomial Implenetation     |Java                     |Completed    |[Here](https://github.com/Jeziel18/Polinomial-Implenetation)|
