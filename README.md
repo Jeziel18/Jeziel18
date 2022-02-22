@@ -23,6 +23,7 @@ learning, renewable energy and solar systems.
 -  C (Knowledgeable) 
 -  Python (Knowledgeable)
 -  Typescript (Familiar)
+-  SQL (Familiar)
 
 ### Tools that I have used:
 -  IntelliJ, Eclipse, Visual Studio Code
