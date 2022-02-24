@@ -31,6 +31,7 @@ learning, renewable energy and solar systems.
 -  GitHub and GitLab
 -  Microsoft Applications (Proficient)
 
+[Here](https://github.com/Jeziel18/Resume/blob/main/Resume%20Jeziel%20Torres%20Vazquez%20Official.pdf) is my resume
 If you want to contact me fell free to do so by email :smile:
 <!--
 **Jeziel18/Jeziel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
